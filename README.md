@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <img src="./assets/images/kemino-logo.png" width="112" height="112">
 </p>
@@ -33,3 +34,6 @@
 <h2 id="2-change-comments">2. Change Comments</h2>
 <p>Now, your app will be up and running and the stream is active. You will see your viewer count grow to reach the desired value, and artificial users will be interacting with your stream. To adjust the comments of your artificial users, press on one of the nine invisible buttons embedded in the UI. A screenshot guide is shown below for the locations.</p>
 <img/>
+=======
+# snapchat-live
+>>>>>>> 5d94f332b5964c0b6f8f47fbd0ed8ed7b7672e5a
