@@ -368,10 +368,13 @@ document.addEventListener("DOMContentLoaded", function () {
 		}
 
 
-		// Updated: Slower, more natural comment pacing
 		function generateRandomCommentTime() {
-			return window.randomIntRange(2000, 3500); // each 2-3.5 seconds
+			return window.randomIntRange(2000, 4000);
 		}
+
+		window.generateRandomReactionTime = function() {
+			return window.randomIntRange(80, 400);
+		};
 
 		function updateContent() {
 			setTimeout(() => {
